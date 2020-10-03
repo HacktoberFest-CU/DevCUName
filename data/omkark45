@@ -1,0 +1,39 @@
+#### Hello World in 6 Languages ! 
+ ***
+- C++ : 
+    #include<iostream>
+    using namespace std;
+    int main(){
+        cout << "Hello World ! " ;
+        return 0;
+    }
+***    
+- Python 3 : 
+    print("Hello World ! ")
+
+***
+- C# (C-Sharp) :  
+  using System;
+
+  class Program
+  {
+    static void Main(string[] args)
+    {
+        Console.WriteLine("Hello, world!");
+    }
+  }
+***
+- Java : 
+    class HelloWorldApp {
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+    }
+}
+***
+- Fortran : 
+    program helloworld
+     print *, "Hello world!"
+  end program helloworld
+***
+- JavaScript : 
+ console.log("Hello World!"); 
