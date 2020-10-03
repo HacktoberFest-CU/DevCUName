@@ -1,7 +1,7 @@
 # DevCuName
 Just add your name in the list and create a pull request
 
-Great to see you here!!
+Great to see you here!
 
 Lets start how to do a `PULL REQUEST`.
 For that you need to fork the repository.
@@ -25,4 +25,4 @@ As simple as that.
 
 You have done your first pull request similarly do other three pull requests.
 
-**Happy Hacking!!**
+**Happy Hacking!**
