@@ -13,7 +13,7 @@ Click on Fork Button.
 
 After that open the file which you want to do changes.
 
-Create a new file with your NAME and add your details.
+Create a new file inside [data](./data) with your NAME and add your details.
 
 Last Click on Commit Changes.
 
