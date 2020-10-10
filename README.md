@@ -1,28 +1,50 @@
+<h1 align="center"> Hacktoberfest-2020</h1>
+
+<img align="center" height=100% width=100% src="https://hacktoberfest.digitalocean.com/assets/HF-full-logo-b05d5eb32b3f3ecc9b2240526104cf4da3187b8b61963dd9042fdc2536e4a76c.svg" alt="hacktoberfest2020">
+
+<p align="center">
+   <img src="https://img.shields.io/badge/author-HacktoberFest-CU?color=orange">
+   <img src="https://img.shields.io/github/contributors/HacktoberFest-CU/DevCUName">
+   <img src="https://img.shields.io/github/forks/HacktoberFest-CU/DevCUName?color=blue">
+   <img src="https://img.shields.io/github/issues-pr/HacktoberFest-CU/DevCUName.svg">
+  <img src="https://img.shields.io/github/license/HacktoberFest-CU/DevCUName" >
+</p>
+
+**Register [here](https://hacktoberfest.digitalocean.com) for Hacktoberfest-2020 and make 4 pull requests (PRs) between October 1-31 to earn a free T-shirt :tshirt: and Stickers.**
+
+***
+
 # DevCuName
-Just add your name in the list and create a pull request
 
-Great to see you here!
+## What to do?
+Just `add your name` in the list and `create a pull request`.
 
-Lets start how to do a `PULL REQUEST`.
-For that you need to fork the repository.
+Great to see you here! :smile:
 
-Fork this repository 
-[DevCuName](https://github.com/HacktoberFest-CU/DevCuName)
+## Lets start how to do a `PULL REQUEST`(PR).
 
-Click on Fork Button.
+- Click on `Fork` Button to fork [DevCuName](https://github.com/HacktoberFest-CU/DevCuName) repository.
 
-After that open the file which you want to do changes.
+- Create a new file inside [data](./data) with `your name` and add `your details`.
 
-Create a new file inside [data](./data) with your NAME and add your details.
+- Click on `Commit Changes` button.
 
-Last Click on Commit Changes.
+- Go to the `Pull request` section and press `New pull request` button.
 
-After commit you need to do final pull request for that go to pull request section in the repository and click new pull request.
+- Compare changes and press `Create pull request` button.
 
-After that Click create pull request and its done.
+- To submit your PR, write a `Title`, `Leave a comment` and click `Create pull request` button.
 
-As simple as that.
+### And That's All. You did it.:partying_face: :clap:
 
-You have done your first pull request similarly do other three pull requests.
+You have done your 1st pull request similarly do other 3 pull requests.
+
+Feel free to Star :star: the repo.
+
+Check out the [Official Hacktoberfest 2020 page](https://hacktoberfest.digitalocean.com/) for more information.
 
 **Happy Hacking!**
+
+### Made with :heart: by <a href="https://github.com/HacktoberFest-CU">HacktoberFest-CU</a>
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/HacktoberFest-CU)
